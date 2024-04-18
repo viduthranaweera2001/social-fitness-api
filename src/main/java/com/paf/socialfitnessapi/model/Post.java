@@ -14,7 +14,7 @@ public class Post {
     private Long id;
     private String title;
     private String description;
-    private List<String> imgUrl;
+//    private List<String> imgUrl;
     private String videoPath;
     private LocalDate postedDate;
     private LocalTime postedTime;
